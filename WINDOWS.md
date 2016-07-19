@@ -51,7 +51,7 @@ First things first. Press `WindowsKey + PAUSE` on your keyboard and select *Adva
 
 ![Variable issue](http://i.imgur.com/2LeOviQ.png)  
 
-Step 6: Setup PokemonGo-Map
+### Step 6: Setup PokemonGo-Map
 
 That was the hard part. Now navigate to the PokemonGo-Map folder and *Git Bash Here*, like in Step 3. Now paste this command:
 
