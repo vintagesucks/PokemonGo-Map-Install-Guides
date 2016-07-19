@@ -15,7 +15,7 @@ Go to [this link](https://cloud.digitalocean.com/droplets/new?size=512mb) and cr
 
 ### Step 2: Change root password
 
-> You can find <YourDropletIP> and current root password in an email from DigitalOcean
+> You can find the Droplet's IP and current root password in an email from DigitalOcean
 
 `ssh root@<YourDropletIP>`
 
