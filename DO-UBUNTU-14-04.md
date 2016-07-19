@@ -5,7 +5,7 @@
 ---
 
 #### Prerequisites for this guide
-- [ ] DigitalOcean Account ( [reflink](https://m.do.co/c/5585c0623c5d), [non-reflink](https://digitalocean.com/))
+- [ ] DigitalOcean Account ([reflink](https://m.do.co/c/5585c0623c5d), [non-reflink](https://digitalocean.com/))
 
 ---
 
