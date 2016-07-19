@@ -66,7 +66,7 @@ The final command should look like this:
 
 Hit enter and view your map in all it's glory at your droplet's IP Address. Done!
 
-![Map](http://i.imgur.com/EBkRhvZ.png)
+![Map](https://i.imgur.com/aBZ4GVn.png)
 
 ---
 
