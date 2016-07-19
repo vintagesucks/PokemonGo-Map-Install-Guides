@@ -15,6 +15,8 @@ Download Git for Windows from the link above and install it. You will be fine wi
 
 ### Step 2: Install Python
 
+> **Note**: If you already have another version of Python installed, you probably want to uninstall that version and install 2.7.1.2. I did not test this setup with any other version.
+
 Download Python 2.7.1.2 either as the 64bit or the 32bit version from the link above. **Make sure** to add Python to PATH during the setup (see screenshot)!
 
 ![Python](https://i.imgur.com/BagNkfw.png)
@@ -35,7 +37,7 @@ Now we have all PokemonGo-Map files inside our Downloads folder.
 
 ### Step 4: Get your own Google Maps API Key
 
-Go to [this page](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend,places_backend&keyType=CLIENT_SIDE&reusekey=true) to get your own Google Maps API Key. If you do not get your own API Key, you'll very likely run into an error telling you that we reached the daily request limit.
+Go to [this page](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend,places_backend&keyType=CLIENT_SIDE&reusekey=true) to get your own Google Maps API Key. If you do not get your own API Key, you'll very likely run into an error telling you that you reached the daily request limit.
 
 If you got your own API Key, open the *credentials.json* file inside the *PokemonGo-Map* folder. You can edit that file with Windows' built in text editor. Now replace the API Key in line 6 with the one you got from that Google website.
 
