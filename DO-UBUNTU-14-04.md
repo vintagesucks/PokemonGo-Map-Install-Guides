@@ -66,7 +66,7 @@ The final command should look like this:
 
 ![Final command](https://i.imgur.com/axKgvEI.png)
 
-Hit enter and view your map in all it's glory at http://<YourDropletIP>/. Done!
+Hit enter and view your map in all it's glory at <YourDropletIP>. Done!
 
 ![Map](http://i.imgur.com/EBkRhvZ.png)
 
