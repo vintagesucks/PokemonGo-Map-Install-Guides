@@ -6,6 +6,7 @@
 
 #### Prerequisites for this guide
 - [ ] DigitalOcean Account ([reflink](https://m.do.co/c/5585c0623c5d), [non-reflink](https://digitalocean.com/))
+- [ ] Using Windows? Try [Git for Windows](https://git-for-windows.github.io) if you need a shell with ssh
 
 ---
 
