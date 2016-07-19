@@ -43,11 +43,15 @@ If you got your own API Key, open the *credentials.json* file inside the *Pokemo
 
 ![API Key](http://i.imgur.com/IjD509D.png)
 
-### Step 5: Setup PokemonGo-Map
+### Step 5: Fix Python Path
+
+> This step is not needed on every system, but it's probably good to check if everything is setup correctly.
 
 First things first. Press `WindowsKey + PAUSE` on your keyboard and select *Advanced System Settings* from the left side menu. At the bottom of that windows click *Environment Variables*. In my case the Python value for the Path variable was set to `C:\Python27\;` which is wrong. You have to remove final backslash if that's the case for you too. If you're having issues with this feel free to open an Issue.
 
 ![Variable issue](http://i.imgur.com/2LeOviQ.png)
+
+Step 6: Setup PokemonGo-Map
 
 That was the hard part. Now navigate to the PokemonGo-Map folder and *Git Bash Here*, like in Step 3. Now paste this command:
 
@@ -55,7 +59,7 @@ That was the hard part. Now navigate to the PokemonGo-Map folder and *Git Bash H
 
 ![Requirements](https://i.imgur.com/6p6uzHB.png)
 
-### Step 6: Setup PokemonGo-Map
+### Step 7: Start PokemonGo-Map
 
 Now we are ready to start the map.
 
