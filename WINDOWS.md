@@ -8,6 +8,12 @@
 
 ---
 
+#### Known Issues
+
+- If you are having Issues with Step 6 and did not install Python on your C: drive, try uninstalling and reinstalling Python on C: before opening an issue (thanks @[RicarFox](https://github.com/RicarFox/)).
+
+---
+
 ### Step 1: Install Git for Windows
 Download Git for Windows from the link above and install it. You will be fine with all recommended options during the setup.
 
@@ -92,9 +98,3 @@ Since PokemonGo-Map is under active development and gets a lot of updates, you p
 `git pull origin master`
 
 Now repeat Step 7 to restart your map.
-
----
-
-### Known Issues
-
-- If you are having Issues with Step 6 and did not install Python on your C: drive, try uninstalling and reinstalling Python on C: before opening an issue (thanks @[RicarFox](https://github.com/RicarFox/)).
