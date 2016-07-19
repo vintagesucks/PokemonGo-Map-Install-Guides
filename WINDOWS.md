@@ -91,4 +91,4 @@ Since PokemonGo-Map is under active development and gets a lot of updates, you p
 
 `git pull origin master`
 
-Now repeat Step 6 to restart your map.
+Now repeat Step 7 to restart your map.
