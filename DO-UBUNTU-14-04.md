@@ -14,9 +14,9 @@ Go to [this link](https://cloud.digitalocean.com/droplets/new?size=512mb) and cr
 
 ### Step 2: Change root password
 
-> You can find your Droplet IP Address and current root password in an email from DigitalOcean
+> You can find <YourDropletIP> and current root password in an email from DigitalOcean
 
-`ssh root@DROPLET.IP.AdDRESS`
+`ssh root@<YourDropletIP>`
 
 Follow the instructions to change your password.
 
@@ -55,7 +55,7 @@ A full list of parameters you can use with the map and what they mean can be fou
 -l: The location you want to scan for Pokémon. You can try something like `La tour Eiffel, Paris`, your street or exact coordinates in this format: `47.6062100 -122.3320700`  
 -st: The amount of steps to take (5 steps is approximately a 1.2km radius according to [this list](https://github.com/AHAAAAAAA/PokemonGo-Map#usage))  
 -ar: Auto refresh interval (in seconds), so you don't have to refresh the map all the time
--H: The host IP Address (***use the droplet's IP Address***)
+-H: The host IP Address (***use <YourDropletIP>***)
 -P: The port to use (***use 80***)
 
 > **Note**: It's recommended that you create a dummy account to use this Map with in order to prevent your real account from getting (soft)banned.
