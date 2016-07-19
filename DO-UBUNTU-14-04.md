@@ -64,8 +64,6 @@ The final command should look like this:
 
 `python example.py -a ptc -u johndoe -p ilovemama -H <YourDropletIP> -P 80 -l "400 Broad St, Seattle, WA 98109, USA" -st 5 -ar 10`
 
-![Final command](https://i.imgur.com/axKgvEI.png)
-
 Hit enter and view your map in all it's glory at your droplet's IP Address. Done!
 
 ![Map](http://i.imgur.com/EBkRhvZ.png)
