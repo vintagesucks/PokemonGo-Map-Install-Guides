@@ -49,7 +49,7 @@ If you got your own API Key, open the *credentials.json* file inside the *Pokemo
 
 First things first. Press `WindowsKey + PAUSE` on your keyboard and select *Advanced System Settings* from the left side menu. At the bottom of that windows click *Environment Variables*. In my case the Python value for the Path variable was set to `C:\Python27\;` which is wrong. You have to remove final backslash if that's the case for you too. If you're having issues with this feel free to open an Issue.
 
-![Variable issue](http://i.imgur.com/2LeOviQ.png)
+![Variable issue](http://i.imgur.com/2LeOviQ.png)  
 
 Step 6: Setup PokemonGo-Map
 
