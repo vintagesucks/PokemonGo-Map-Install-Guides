@@ -1,5 +1,9 @@
 ### PokemonGo-Map: DigitalOcean Ubuntu 14.04. Installation
 
+---
+## IMPORTANT: Since [AHAAAAAAA](https://github.com/AHAAAAAAA/) received a notice to cease and desist from Niantic Labs it's no longer possible to install PokemonGo-Map with this guide. Feel free to fork and modify, but pull requests and issues will be ignored.
+---
+
 > Install [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) from scratch on DigitalOcean
 
 ---
