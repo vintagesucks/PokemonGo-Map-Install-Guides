@@ -2,6 +2,10 @@
 
 ---
 
+## IMPORTANT: Since [AHAAAAAAA](https://github.com/AHAAAAAAA/) received a notice to cease and desist from Niantic Labs it's no longer possible to install PokemonGo-Map with this guide. Feel free to fork and modify, but pull requests and issues will be ignored.
+
+---
+
 #### Prerequisites for this guide
 - [ ] [git for windows](https://git-for-windows.github.io/)
 - [ ] [Python 2.7.1.2](https://www.python.org/downloads/release/python-2712/)
